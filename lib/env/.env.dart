@@ -1,6 +1,6 @@
 import  'package:envied/envied.dart' ;
 
-part  'env.g.dart' ;
+part 'env.g.dart' ;
 
 @Envied(path:  '.env' )
 abstract class Env {
@@ -15,4 +15,13 @@ abstract class Env {
   
   @EnviedField(varName:  'VISIONX_TAVILY_KEY' , obfuscate: true)
   static const String tavilyKey = _Env.tavilyKey;
+  
+  @EnviedField(varName:  'VISIONX_PROTOCOL_HISHAM' , obfuscate: true)
+  static const String hishamProtocol = _Env.hishamProtocol;
+  
+  @EnviedField(varName:  'VISIONX_PROTOCOL_GLOBAL' , obfuscate: true)
+  static const String globalProtocol = _Env.globalProtocol;
+
+  @EnviedField(varName:  'VISIONX_MASTER_UID' , obfuscate: true)
+  static const String masterUid = _Env.masterUid;
 }

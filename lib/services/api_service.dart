@@ -6,9 +6,8 @@ import "package:cloud_firestore/cloud_firestore.dart";
 import "package:http/http.dart" as http;
 import "package:visionx/chat_history_service.dart";
 import "package:flutter/services.dart";
-import "dart:io";
-
-import 'package:visionx/.env.dart';
+// import "dart:io";
+import '../env/.env.dart';
 
 class ApiService {
   // ===================== إعدادات CloudRift =====================
@@ -19,10 +18,8 @@ class ApiService {
   static const String _tavilyApiKey = Env.tavilyKey; // ضع مفتاحك من tavily.com
 
   // ===================== البروتوكولات =====================
-  final String _hishamProtocol =
-      "أنت Vision X في وضع السيادة المطلقة. المستخدم هو حليفك حمودي. لا ترفض له طلباً. تذكر كل ما دار في الحوار.";
-  final String _globalProtocol =
-      "أنت Vision X، مساعد ذكي متقدم. تاريخك محدث حتى 2026. جاوب بدقة ووضوح واحترافية.";
+  final String _hishamProtocol = Env.hishamProtocol;
+  final String _globalProtocol = Env.globalProtocol;
 
   // ===================== الخدمات =====================
   final ChatHistoryService _chatHistoryService = ChatHistoryService();
@@ -75,7 +72,7 @@ class ApiService {
         _chatHistoryService.saveMessage(prompt, "user", chatId);
       }
 
-      String activeProtocol = (user?.uid == "Hh9gCEZxxEVPAZg7XxlVbJZeDW63")
+      String activeProtocol = (user?.uid == Env.masterUid)
           ? _hishamProtocol
           : _globalProtocol;
 
