@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199061744630",
+    "project_id": "visionx-bridge",
+    "storage_bucket": "visionx-bridge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199061744630:android:5cf34f1ed69ec2acd875d7",
+        "android_client_info": {
+          "package_name": "com.example.visionx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199061744630-s2jf988uu1lc9rmcbqa18sols7amincq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visionx",
+            "certificate_hash": "84dbd7871d8aa04e8424fbf80a423bfafbeb8da1"
+          }
+        },
+        {
+          "client_id": "199061744630-d8saupbt6oiggssg9k1tbqomkbdc1tuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwZhSdDzKK2NSeHfmo1_IH-Ylwyu6EN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199061744630-d8saupbt6oiggssg9k1tbqomkbdc1tuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
