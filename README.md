@@ -10,3 +10,11 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
 - Custom Protocols: Supports various conversation modes.
 - Advanced Protection: All sensitive keys and protocols are encrypted using envied.
 - Secure Identity: Recognizes the primary user (Master UID) in encrypted form.
+
+## Technologies Used
+
+![Flutter](https://img.shields.io/badge/Flutter-3.19.0-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.3.0-blue?style=flat-square&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC-8.0.0-blue?style=flat-square)
+![Envied](https://img.shields.io/badge/Envied-0.5.4-green?style=flat-square)
