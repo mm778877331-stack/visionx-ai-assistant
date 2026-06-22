@@ -1,13 +1,13 @@
-# VisionX 🤖
+# VisionX AI Assistant 🤖
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.19.0-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.3.0-blue?style=flat-square&logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![BLoC](https://img.shields.io/badge/BLoC-8.0.0-blue?style=flat-square)
 ![Envied](https://img.shields.io/badge/Envied-0.5.4-green?style=flat-square)
 
 VisionX is an AI-powered conversational assistant developed using Flutter. It offers an advanced conversational experience with support for live search and image generation, with a focus on privacy and performance.
 
----
 
 ## 🚀 Key Features
 
@@ -18,27 +18,23 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
 - Advanced Protection: All sensitive keys and protocols are encrypted using envied.
 - Secure Identity: Recognizes the primary user (Master UID) in encrypted form.
 
----
-
 ## 🛠 Technologies Used
 
-- 🖥️ Interface: Flutter, Dart
-- 🔐 Authentication: Firebase Auth
-- 🗄️ Database: Cloud Firestore
-- 🤖 AI: OpenRouter API (CloudRift)
-- 🔍 Search: Tavily Search API
-- 🔒 Encryption: Envied
-- ⚙️ State Management: BLoC, GetIt
-
----
+| Domain | Technologies |
+|--------|--------------|
+| Interface | Flutter, Dart |
+| Authentication | Firebase Auth |
+| Database | Cloud Firestore |
+| AI | OpenRouter API (CloudRift) |
+| Search | Tavily Search API |
+| Encryption | Envied (for keys and protocols) |
+| State Management | BLoC, GetIt |
 
 ## 📸 App Screenshots
 
 | Home Screen | Chat Screen | Settings |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home_screen.png) | ![Chat](screenshots/chat_screen.png) | ![Settings](screenshots/settings_screen.png) |
-
----
+| ![Home](screenshots/home.png) | ![Chat](screenshots/chat.png) | ![Settings](screenshots/settings.png) |
 
 ## 📦 Installation
 
