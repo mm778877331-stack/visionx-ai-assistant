@@ -1,16 +1,17 @@
-# visionx
+# VisionX
 
-A new Flutter project.
+VisionX is an AI-powered conversational assistant developed using Flutter. It offers an advanced conversational experience with support for live search and image generation, with a focus on privacy and performance.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- Smart Conversation: Uses Large Language Models (LLM) to provide natural and accurate responses.
 
-A few resources to get you started if this is your first Flutter project:
+- Live Search: Connects to the Tavily API to provide up-to-date information from the web.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Image Generation: Can generate images based on your text description.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Custom Protocols: Supports various conversation modes.
+
+- Advanced Protection: All sensitive keys and protocols are encrypted using envied.
+
+- Secure Identity: Recognizes the primary user (Master UID) in encrypted form.
