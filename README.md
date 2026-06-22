@@ -42,7 +42,7 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
 
 ## 📦 Installation
 
-`bash
+``` bash
 git clone https://github.com/mm778877331-stack/visionx-ai-assistant.git
 cd visionx-ai-assistant
 flutter pub get
