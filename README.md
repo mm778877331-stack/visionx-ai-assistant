@@ -31,21 +31,35 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
 | State Management | BLoC, GetIt |
 
 
-## 📱 App Screens
+## 📱 App Screenshots
 
-### 🔹 Welcome Screen
-<img src="[img width=500]https://i.imgpeek.com/BRqhnYH3CC00[/img]" alt="Welcome Screen" width="300"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <p style="font-size: 14px; color: #666;">Built with Flutter</p>
+</div>
 
-### 🔹 Login Screens
-
-<img src="https://i.ibb.co/m5mT5c4/login-options.jpg" alt="Login Options" width="300"/>
-
-<img src="https://i.ibb.co/6B7XKjD/login-without-account.jpg" alt="Login Without Account" width="300"/>
-
-### 🔹 Chat Interface
-
-<img src="https://i.ibb.co/1RY0LTP/chat-list.jpg" alt="Chat List"  width="300"/>
-<img src="https://i.ibb.co/0fLcQ4X/chat-interface.jpg" alt="Chat Interface" width="300"/>
+<table align="center">
+  <tr>
+    <td><img src="[img width=500]https://i.imgpeek.com/BRqhnYH3CC00[/img]" alt="Splash" width="200"/></td>
+    <td><img src="رابط_صورة_شاشة_الترحيب" alt="Welcome" width="200"/></td>
+    <td><img src="رابط_صورة_شاشة_تسجيل_الدخول" alt="Login" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Splash</b></td>
+    <td align="center"><b>Welcome</b></td>
+    <td align="center"><b>Login</b></td>
+  </tr>
+  <tr>
+    <td><img src="رابط_صورة_شاشة_المحادثات" alt="Chat List" width="200"/></td>
+    <td><img src="رابط_صورة_شاشة_المحادثة" alt="Chat Screen" width="200"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Chat List</b></td>
+    <td align="center"><b>Chat</b></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 📦 Installation
 
