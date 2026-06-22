@@ -34,7 +34,7 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
 ## 📱 App Screens
 
 ### 🔹 Welcome Screen
-<img src="[https://i.ibb.co/Yh7Yv5x/welcome-screen.jpg](https://i.imgpeek.com/BRqhnYH3CC00)" alt="Welcome Screen" width="300"/>
+<img src="[img width=500]https://i.imgpeek.com/BRqhnYH3CC00[/img]" alt="Welcome Screen" width="300"/>
 
 ### 🔹 Login Screens
 
