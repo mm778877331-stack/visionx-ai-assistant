@@ -41,7 +41,7 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
   <img src="https://i.imgpeek.com/Wh1rjz7aDA7h" alt="Chat List" width="250"/>
   <img src="https://i.imgpeek.com/1KUD-ZYu0EAl" alt="Chat" width="250"/>
   <br/><br/>
-  <em>Scerrn App VisionX</em>
+  <em>VisionX</em>
 </div>
 
 
