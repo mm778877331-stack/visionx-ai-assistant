@@ -53,8 +53,8 @@ git clone https://github.com/mm778877331-stack/visionx-ai-assistant.git
 cd visionx-ai-assistant
 flutter pub get
 flutter run
-
-## 🤝 Contributing
+```
+# 🤝 Contributing
 
 1. Fork the repository.
 2. Create a new branch.
@@ -70,4 +70,9 @@ flutter run
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
+
+
+
 
