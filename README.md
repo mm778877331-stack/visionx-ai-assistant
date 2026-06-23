@@ -33,7 +33,8 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
 
 
 ## Project Structurn
-```lib/
+```
+lib/
 ├── core/
 │   └── auth_provider.dart
 ├── env/
