@@ -34,16 +34,15 @@ VisionX is an AI-powered conversational assistant developed using Flutter. It of
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://i.imgpeek.com/BRqhnYH3CC00" alt="Splash" width="350"/>
-  <img src="https://i.imgpeek.com/QFjk93-PiNaw" alt="Welcome" width="350"/>
-  <img src="https://i.imgpeek.com/SdPh0eSJr5Ct" alt="Login" width="250"/>
+  <img src="https://i.imgpeek.com/uEp722HnYgSS" alt="Splash" width="350"/>
+  <img src="https://i.imgpeek.com/MWbk6U1UevlJ" alt="Welcome" width="350"/>
+  <img src="https://i.imgpeek.com/ZQICYreQNe2E" alt="Login" width="350"/>
   <br/><br/>
-  <img src="https://i.imgpeek.com/0Xwjiv5Yx3vw" alt="Chat List" width="250"/>
-  <img src="https://i.imgpeek.com/d59U6_KibLHa" alt="Chat" width="250"/>
+  <img src="https://i.imgpeek.com/Wh1rjz7aDA7h" alt="Chat List" width="350"/>
+  <img src="https://i.imgpeek.com/1KUD-ZYu0EAl" alt="Chat" width="350"/>
   <br/><br/>
-  <em>شاشات تطبيق VisionX</em>
+  <em>Scerrn App VisionX</em>
 </div>
-
 
 
 ## 📦 Installation
