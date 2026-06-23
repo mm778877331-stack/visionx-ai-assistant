@@ -1,10 +1,11 @@
 # VisionX AI Assistant 🤖
-
 ![Flutter](https://img.shields.io/badge/Flutter-3.19.0-blue?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.3.0-blue?style=flat-square&logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![BLoC](https://img.shields.io/badge/BLoC-8.0.0-blue?style=flat-square)
 ![Envied](https://img.shields.io/badge/Envied-0.5.4-green?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?style=flat-square&logo=github-actions)
 
 VisionX is an AI-powered conversational assistant developed using Flutter. It offers an advanced conversational experience with support for live search and image generation, with a focus on privacy and performance.
 
@@ -52,3 +53,21 @@ git clone https://github.com/mm778877331-stack/visionx-ai-assistant.git
 cd visionx-ai-assistant
 flutter pub get
 flutter run
+
+## 🤝 Contributing
+
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push to the branch.
+5. Open a Pull Request.
+
+## 📬 Contact
+
+- Email: qwererrff@gmail.com
+- GitHub: [mm778877331-stack](https://github.com/mm778877331-stack)
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
