@@ -63,7 +63,7 @@ lib/
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://i.imgpeek.com/uEp722HnYgSS" alt="Splash" width="1000"/>
+  <img src="https://i.imgpeek.com/uEp722HnYgSS" alt="Splash" width="250"/>
   <img src="https://i.imgpeek.com/MWbk6U1UevlJ" alt="Welcome" width="250"/>
   <img src="https://i.imgpeek.com/ZQICYreQNe2E" alt="Login" width="250"/>
   <img src="https://i.imgpeek.com/Wh1rjz7aDA7h" alt="Chat List" width="250"/>
